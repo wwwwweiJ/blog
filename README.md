@@ -1,1 +1,1 @@
-new project for blog in Rust
+Practice use Rust to build a blog website
